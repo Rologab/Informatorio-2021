@@ -1,0 +1,4 @@
+Gastón,Zalazar,10-07-1987,60000
+Mariana,Paez,05-09-1995,130000
+José,Ramirez,22-05-1982,75000
+Romina,Medina,08-12-1989,80000
